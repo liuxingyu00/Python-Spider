@@ -1,4 +1,4 @@
 # hello-world
 
 hi Humans!
-Hubot here,I like Python and Java
+Welcome to my GitHub page! 
